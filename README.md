@@ -6,3 +6,5 @@ This is a simple example to install X-CUBE-AZRTOS-H7 2.1.0 version of NUCLEO-H72
 
 X-CUBE-AZRTOS-H7 : [ Download ](https://www.st.com/en/embedded-software/x-cube-azrtos-h7.html) </br>
 STM32H745DK Board : [ User Manual ](https://www.st.com/content/ccc/resource/technical/document/user_manual/group1/23/54/f3/b8/10/ae/44/d9/DM00547983/files/DM00547983.pdf/jcr:content/translations/en.DM00547983.pdf)
+
+STM32 LWIP Hotspot : [STM32H7 LWIP Hotspot](https://github.com/stm32-hotspot/STM32H7-LwIP-Examples)
